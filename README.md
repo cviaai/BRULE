@@ -44,3 +44,6 @@ components:
 - Train part before gan, after that train part with gan.
 3. Logger.
 - Send losses, metrics and pictures to tensorboard.
+
+
+Contributors: n.buzun@skoltech.ru and iaroslav.bespalov@skoltech.ru
