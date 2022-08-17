@@ -46,4 +46,3 @@ components:
 - Send losses, metrics and pictures to tensorboard.
 
 
-Contributors: n.buzun@skoltech.ru and iaroslav.bespalov@skoltech.ru
